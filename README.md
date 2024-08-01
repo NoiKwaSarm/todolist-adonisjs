@@ -4,13 +4,13 @@
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### For Development
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### For Production
 
 ```sh
 npm run build
@@ -38,4 +38,12 @@ npm run stop:pg
 
 ```sh
 npm run migrate:run
+```
+
+### Postman Testing API
+Import file: todolist.postman_collection.json
+
+Set enviroment with url
+```
+http://localhost:3333
 ```
