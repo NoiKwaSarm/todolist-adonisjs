@@ -43,7 +43,7 @@ npm run migrate:run
 ### Postman Testing API
 Import file: todolist.postman_collection.json
 
-Set enviroment with url
+Set environment with url
 ```
 http://localhost:3333
 ```
